@@ -18,8 +18,10 @@
   },
   "homepage": "https://github.com/CarlosTorres0929/CrudMongoDB#readme",
   "dependencies": {
+    "body-parser": "^1.19.0",
     "express": "^4.17.1",
     "mongo": "^0.1.0",
+    "mongoose": "^5.7.7",
     "mongose": "0.0.2-security",
     "node": "^12.12.0"
   },
